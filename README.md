@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Toka Ashraf</h1>
-<h3 align="center">  Computer Science Student | Cairo University</h3>
+<h3 align="center">  Computer Science graduate | Cairo University</h3>
 
 <p align="left">
   <img src="https://hits.sh/github.com/tokaashraf1.svg?label=Profile%20views&color=0e75b6&style=flat" alt="tokaashraf1 profile views" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokaashraf1" alt="tokaashraf1" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.JS**
 
 - 📫 How to reach me **toka74724@gmail.com**
 
