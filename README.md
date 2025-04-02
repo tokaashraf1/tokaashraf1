@@ -2,8 +2,7 @@
 <h3 align="center">  Computer Science graduate | Cairo University</h3>
 
 <p align="left">
-<img src="https://countapi.xyz/hit/new-username/new-repo/?label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
+<img src="https://countapi.xyz/hit/github.com/tokaashraf1/tokaashraf1/?label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tokaashraf1" alt="tokaashraf1" /></a> </p>
 
