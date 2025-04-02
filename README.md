@@ -2,7 +2,8 @@
 <h3 align="center">  Computer Science graduate | Cairo University</h3>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Views-Reset-blue" alt="Reset Views" />
+<img src="https://countapi.xyz/hit/your-namespace/your-key/?label=Views&color=blue&style=flat" alt="View Counter" />
+
 
 
 </p>
