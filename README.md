@@ -2,7 +2,7 @@
 <h3 align="center">  Computer Science graduate | Cairo University</h3>
 
 <p align="left">
-<img src="https://visitor-badge.glitch.me/badge?page_id=new-username.new-repo&countColor=blue" alt="Unique Visitors" />
+<img src="https://img.shields.io/badge/Views-Reset-blue" alt="Reset Views" />
 
 
 </p>
